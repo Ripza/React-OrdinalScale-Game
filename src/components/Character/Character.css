@@ -1,0 +1,7 @@
+.Character-name{
+    font-weight: bold;
+}
+
+.Character-lvl, .Character-exp, .Character-description{
+    margin-left: 10px;
+}
